@@ -1,7 +1,5 @@
 ## Hi, I'm Paulo Cesar - [Pchenrique][github] 👋
 
-<br />
-
 ### About me:
 - I am a student and lover of computing.
 - Constantly learning new technologies.
