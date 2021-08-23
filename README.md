@@ -27,7 +27,7 @@
   <img src="https://img.shields.io/badge/typescript%20-%23323330.svg?&style=for-the-badge&logo=typescript&logoColor=%3178c6"/>
   <img src="https://img.shields.io/badge/docker%20-%23323330.svg?&style=for-the-badge&logo=docker&logoColor=%3178c6"/>
   <img src="https://img.shields.io/badge/php%20-%23323330.svg?&style=for-the-badge&logo=php&logoColor=%3178c6"/>
-  <img src="https://img.shields.io/badge/postgres%20-%23323330.svg?&style=for-the-badge&logo=postgres&logoColor=%3178c6"/>
+  <img src="https://img.shields.io/badge/postgres%20-%23323330.svg?&style=for-the-badge&logo=postgresql&logoColor=%3178c6"/>
   <img src="https://img.shields.io/badge/mysql%20-%23323330.svg?&style=for-the-badge&logo=mysql&logoColor=adafb"/>
   <img src="https://img.shields.io/badge/nodeJS%20-%23323330.svg?&style=for-the-badge&logo=node.js&logoColor=adafb"/>
   <img src="https://img.shields.io/badge/adonisJs%20-%23323330.svg?&style=for-the-badge&logo=adonisJs&logoColor=adafb"/>
