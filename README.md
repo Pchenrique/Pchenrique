@@ -1,61 +1,43 @@
-## Hi, I'm Paulo Cesar - [Pchenrique][github] 👋
+## Hi, I'm Paulo Cesar 👋
 
 ### About me:
 - I am a student and lover of computing.
 - Constantly learning new technologies.
 - Academic in the course of information systems.
 - Exchange at the university of évora studying computer engineering.
-- Currently working with technologies for the web.
+- Currently working as a backend engineer.
 <br />
 
-<img alt="Pchenrique's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Pchenrique&show_icons=true&hide_border=true&theme=dark" />
+[![Visits Badge](https://badges.pufler.dev/visits/pchenrique/pchenrique?style=for-the-badge)](https://github.com/pchenrique/pchenrique)
+![Repos Badge](https://badges.pufler.dev/repos/pchenrique?style=for-the-badge)
 
-<img alt="Most used languagens" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pchenrique&layout=compact&hide_border=true&theme=dark" />
+<img alt="Pchenrique's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Pchenrique&show_icons=true&theme=dark" />
+
+<img alt="Most used languagens" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pchenrique&layout=compact&theme=dark" />
 
 ### Languages and tools:
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-
-<img align="left" alt="PHP" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />
-
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-
-<img align="left" alt="codeSTACKr | Github" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/adonisjs.svg" />
-
-<img align="left" alt="Laravel" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png" />
-
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-
-<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-
-<img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/docker/docker.png" />
-
-
-<br />
+<p>
+  <img src="https://img.shields.io/badge/git%20-%23323330.svg?&style=for-the-badge&logo=git&logoColor=%f14e32"/>
+  <img src="https://img.shields.io/badge/github%20-%23323330.svg?&style=for-the-badge&logo=github&logoColor=%FFF"/>
+  <img src="https://img.shields.io/badge/heroku%20-%23323330.svg?&style=for-the-badge&logo=heroku&logoColor=%79589F"/>
+  <img src="https://img.shields.io/badge/html5%20-%23323330.svg?&style=for-the-badge&logo=html5&logoColor=%f14e32"/>
+  <img src="https://img.shields.io/badge/css3%20-%23323330.svg?&style=for-the-badge&logo=css3&logoColor=%3178c6"/>
+  <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+  <img src="https://img.shields.io/badge/typescript%20-%23323330.svg?&style=for-the-badge&logo=typescript&logoColor=%3178c6"/>
+  <img src="https://img.shields.io/badge/docker%20-%23323330.svg?&style=for-the-badge&logo=docker&logoColor=%3178c6"/>
+  <img src="https://img.shields.io/badge/php%20-%23323330.svg?&style=for-the-badge&logo=php&logoColor=%3178c6"/>
+  <img src="https://img.shields.io/badge/postgres%20-%23323330.svg?&style=for-the-badge&logo=postgres&logoColor=%3178c6"/>
+  <img src="https://img.shields.io/badge/mysql%20-%23323330.svg?&style=for-the-badge&logo=mysql&logoColor=adafb"/>
+  <img src="https://img.shields.io/badge/nodeJS%20-%23323330.svg?&style=for-the-badge&logo=node.js&logoColor=adafb"/>
+  <img src="https://img.shields.io/badge/adonisJs%20-%23323330.svg?&style=for-the-badge&logo=adonisJs&logoColor=adafb"/>
+  <img src="https://img.shields.io/badge/Laravel%20-%23323330.svg?&style=for-the-badge&logo=laravel&logoColor=adafb"/>
+  <img src="https://img.shields.io/badge/MongoDB%20-%23323330.svg?&style=for-the-badge&logo=mongodb&logoColor=adafb"/>
+  <img src="https://img.shields.io/badge/React%20-%23323330.svg?&style=for-the-badge&logo=react&logoColor=adafb"/>
+</p>
 
 ### Social networks
 
-[<img align="left" alt="codeSTACKr | Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-[github]: https://github.com/Pchenrique
-[instagram]: https://instagram.com/xpaulocesarx
-[linkedin]: https://www.linkedin.com/in/paulo-cesar-henrique-da-silva-a3aa41140/
-[twitter]: #
-[youtube]: #
-[site]: #
+<a href="https://www.linkedin.com/in/paulocesar1998/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://instagram.com/xpaulocesarx"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href="mailto:pchenrique@hotmail.com"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"></a>
