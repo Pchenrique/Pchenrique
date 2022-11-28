@@ -3,7 +3,7 @@
 ### About me:
 - I am a student and lover of computing.
 - Constantly learning new technologies.
-- Academic in the course of information systems.
+- Bachelor's Degree in Information Systems
 - Exchange at the university of évora studying computer engineering.
 - Currently working as a backend engineer.
 <br />
