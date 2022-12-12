@@ -8,9 +8,6 @@
 - Currently working as a backend engineer.
 <br />
 
-[![Visits Badge](https://badges.pufler.dev/visits/pchenrique/pchenrique?style=for-the-badge)](https://github.com/pchenrique/pchenrique)
-![Repos Badge](https://badges.pufler.dev/repos/pchenrique?style=for-the-badge)
-
 <img alt="Pchenrique's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Pchenrique&show_icons=true&theme=dark" />
 
 <img alt="Most used languagens" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pchenrique&layout=compact&theme=dark" />
