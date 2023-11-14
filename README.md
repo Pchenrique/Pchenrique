@@ -6,11 +6,6 @@
 - Bachelor's Degree in Information Systems
 - Exchange at the university of évora studying computer engineering.
 - Currently working as a backend engineer.
-<br />
-
-<img alt="Pchenrique's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Pchenrique&show_icons=true&theme=dark" />
-
-<img alt="Most used languagens" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pchenrique&layout=compact&theme=dark" />
 
 ### Languages and tools:
 
